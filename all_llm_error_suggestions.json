@@ -1,0 +1,1142 @@
+[
+  {
+    "filename": "ABI_Fluxomics_grant.docx",
+    "errors": [
+      {
+        "error_id": 1,
+        "location_description": "Overview and objectives section",
+        "original_text": "fluxomics are direct readouts of cellular metabolism, which reflect the global enzyme reaction rates in a metabolic network1.",
+        "suggested_error": "fluxomics are capable of directly measuring the exact ATP production rates in real-time within live cells.",
+        "error_type": "overstatement of fluxomics capabilities",
+        "before_word": "which",
+        "after_word": "reflect"
+      },
+      {
+        "error_id": 2,
+        "location_description": "Objective 1 section",
+        "original_text": "The pan-MFA describes the full components of central metabolism routes including the “core metabolic pathways” and the “unique pathways”.",
+        "suggested_error": "The pan-MFA can predict future metabolic pathways that might evolve in response to climate change.",
+        "error_type": "prediction of future evolution",
+        "before_word": "including",
+        "after_word": "core metabolic pathways"
+      },
+      {
+        "error_id": 3,
+        "location_description": "Significance section",
+        "original_text": "Fluxomics is of practical importance in many research fields, including metabolic engineering, microbial ecology, medical research, and biotechnologies.",
+        "suggested_error": "Fluxomics is the only method capable of predicting human disease phenotypes based on microbial interactions.",
+        "error_type": "overstatement of capabilities",
+        "before_word": "is",
+        "after_word": "of practical importance"
+      },
+      {
+        "error_id": 4,
+        "location_description": "Background section",
+        "original_text": "FBA uses the stoichiometry of the metabolic reactions and a series of chemical and biological characteristics (such as enzymatic capacity) to obtain the feasible fluxes.",
+        "suggested_error": "FBA uses the stoichiometry of the metabolic reactions to predict the exact genetic sequence of unknown organisms.",
+        "error_type": "incorrect application of FBA",
+        "before_word": "obtain",
+        "after_word": "the feasible fluxes"
+      },
+      {
+        "error_id": 5,
+        "location_description": "Advances in FBA and 13C-MFA Techniques section",
+        "original_text": "FBA can use a bi-level optimization approach to describe “non-optimal” metabolic behaviors (for example, the potential trade-off between biomass accumulation and the yield of a desired product).",
+        "suggested_error": "FBA can use a bi-level optimization approach to accurately predict the weather patterns based on cellular metabolism.",
+        "error_type": "nonsensical application of FBA",
+        "before_word": "describe",
+        "after_word": "non-optimal metabolic behaviors"
+      },
+      {
+        "error_id": 6,
+        "location_description": "Technical bottlenecks in 13C-MFA and FBA section",
+        "original_text": "Atom fate maps are not included in the most widely used metabolic databases, such as the Kyoto Encyclopedia of Genes and Genomes (KEGG) database, MetaCyc or BRENDA.",
+        "suggested_error": "Atom fate maps are capable of predicting the stock market trends based on metabolic pathways.",
+        "error_type": "nonsensical application of atom fate maps",
+        "before_word": "not",
+        "after_word": "included"
+      },
+      {
+        "error_id": 7,
+        "location_description": "Preliminary Studies section",
+        "original_text": "We performed isotopomer analysis using GC-MS to measure proteinogenic amino acids in Shewanella27, which allow us to deduce the isotopic labeling information of eight crucial precursor metabolites.",
+        "suggested_error": "Our GC-MS isotopomer analysis can also predict the nutritional preferences of ancient extinct species.",
+        "error_type": "overstatement of technological reach",
+        "before_word": "us",
+        "after_word": "to deduce"
+      },
+      {
+        "error_id": 8,
+        "location_description": "Proposed Research section",
+        "original_text": "The goal of this proposal is to develop an advanced computer modeling platform to perform characterization and prediction of cellular metabolism.",
+        "suggested_error": "The goal of this proposal is to develop a platform that can simulate the consciousness of microorganisms.",
+        "error_type": "impossible simulation claim",
+        "before_word": "characterization",
+        "after_word": "and prediction"
+      },
+      {
+        "error_id": 9,
+        "location_description": "Objective 2 section",
+        "original_text": "The platform may identify orphan reactions through different types of experimental evidence, including enzyme assays of crude cell extracts or the metabolite identifications.",
+        "suggested_error": "The platform can identify orphan reactions by analyzing the electromagnetic field around the cells.",
+        "error_type": "scientifically unsupported method",
+        "before_word": "through",
+        "after_word": "different types of experimental evidence"
+      },
+      {
+        "error_id": 10,
+        "location_description": "Broader Impacts section",
+        "original_text": "This project will also contribute to ongoing efforts in transforming engineering and biology education by introducing cross-disciplinary topics.",
+        "suggested_error": "This project will also enable direct neural integration with computers for biologists.",
+        "error_type": "unfeasible technological claim",
+        "before_word": "by",
+        "after_word": "introducing cross-disciplinary topics"
+      }
+    ]
+  },
+  {
+    "filename": "Acetate_grant.docx",
+    "errors": [
+      {
+        "error_id": 1,
+        "location_description": "Project Summary",
+        "original_text": "Acetate is also a soluble substrate with an energy density (∆cHӨ) of -14.6 kJ/g, comparable to that of glucose (∆cHӨ = -15.6 kJ/g).",
+        "suggested_error": "Acetate is also a soluble substrate with an energy density (∆cHӨ) of -14.6 kJ/g, which is exactly the same as the energy density of antimatter.",
+        "error_type": "Energy density comparison with antimatter",
+        "before_word": "glucose",
+        "after_word": "(∆cHӨ = -15.6 kJ/g)."
+      },
+      {
+        "error_id": 2,
+        "location_description": "Intellectual merit section",
+        "original_text": "Recent research has proven that our engineered E.coli is much more productive than acetate-utilizing fungal species in converting acetate to fatty acids.",
+        "suggested_error": "Recent research has proven that our engineered E.coli can convert acetate directly into antimatter.",
+        "error_type": "Conversion to antimatter",
+        "before_word": "species",
+        "after_word": "in converting acetate to fatty acids."
+      },
+      {
+        "error_id": 3,
+        "location_description": "1. Background and Motivations",
+        "original_text": "Syngas from gasification of biomass or coal, and methane from natural gas and biogas.",
+        "suggested_error": "Syngas from gasification of biomass or coal, and methane from natural gas, biogas, or unicorn breath.",
+        "error_type": "Introduction of mythical source",
+        "before_word": "biogas",
+        "after_word": "."
+      },
+      {
+        "error_id": 4,
+        "location_description": "1. 2. Use of acetate as feedstock for E. coli cell factories",
+        "original_text": "Acetic acid (∆cHӨ = -14.6 kJ/g) has an energy density comparable to that of glucose (∆cHӨ = -15.6 kJ/g), but it is a notorious inhibitor of microbial fermentation.",
+        "suggested_error": "Acetic acid (∆cHӨ = -14.6 kJ/g) has a gravitational pull that affects microbial fermentation.",
+        "error_type": "Nonsensical gravitational pull",
+        "before_word": "but",
+        "after_word": "it is a notorious inhibitor of microbial fermentation."
+      },
+      {
+        "error_id": 5,
+        "location_description": "3.2.2 Task 2: Conversion of acetate to FAEE.",
+        "original_text": "Lastly, a nonspecific wax ester synthase (encoded by atfA) from Acinetobacter sp. Strain ADP1 will be overexpressed",
+        "suggested_error": "Lastly, a nonspecific wax ester synthase (encoded by atfA) from Acinetobacter sp. Strain ADP1 will be teleported",
+        "error_type": "Teleportation technique",
+        "before_word": "overexpressed",
+        "after_word": "to condense acyl-CoAs"
+      },
+      {
+        "error_id": 6,
+        "location_description": "3.2.3. Task 3: Metabolic flux analysis of E.coil strain for acetate-based FAEE production",
+        "original_text": "Moreover, FAEE synthesis is energy intensive (8Acetyl-CoA + 14NADPH + 8ATP + Ethanol → FAEE (C16:0 fatty acid ethyl ester).",
+        "suggested_error": "Moreover, FAEE synthesis can be powered by the emotional energy of the researchers.",
+        "error_type": "Emotional energy source",
+        "before_word": "intensive",
+        "after_word": "(8Acetyl-CoA + 14NADPH + 8ATP + Ethanol →"
+      },
+      {
+        "error_id": 7,
+        "location_description": "3.2.4. Task 4: Improving FAEE productivity via metabolic engineering and synthetic biology",
+        "original_text": "We will try three strategies to resolve the cofactor imbalance problem:",
+        "suggested_error": "We will try three strategies and a magic spell to resolve the cofactor imbalance problem:",
+        "error_type": "Inclusion of magic",
+        "before_word": "strategies",
+        "after_word": "to resolve the cofactor"
+      },
+      {
+        "error_id": 8,
+        "location_description": "4. Broader Impacts",
+        "original_text": "This project will support two graduate students and several undergraduate students.",
+        "suggested_error": "This project will support two graduate students, several undergraduate students, and one intergalactic exchange student.",
+        "error_type": "Intergalactic exchange student",
+        "before_word": "undergraduate",
+        "after_word": "students."
+      },
+      {
+        "error_id": 9,
+        "location_description": "4.3. Outreach Impact",
+        "original_text": "Students will not only learn engineering and science lessons, but also improve their communication and data analysis skills.",
+        "suggested_error": "Students will not only learn engineering and science lessons, but also develop the ability to communicate telepathically with microbes.",
+        "error_type": "Telepathic communication",
+        "before_word": "improve",
+        "after_word": "their communication and data analysis skills."
+      },
+      {
+        "error_id": 10,
+        "location_description": "5. Prior NSF Research",
+        "original_text": "We have used 13C-tools to direct metabolic engineering of Synechocystis 6803 to produce isobutanol",
+        "suggested_error": "We have used 13C-tools to direct metabolic engineering of Synechocystis 6803 to produce infinite chocolate",
+        "error_type": "Production of infinite chocolate",
+        "before_word": "isobutanol",
+        "after_word": "(Varman et al., 2013)"
+      }
+    ]
+  },
+  {
+    "filename": "Coculture_grant.docx",
+    "errors": [
+      {
+        "error_id": 1,
+        "location_description": "Research Description, Intellectual Merit",
+        "original_text": "To explore the possibility of using cyanobacteria as a photosynthetic host for producing renewable materials through a carbon-negative process, this proposal aims to understand the production and secretion of EPS in Anabaena 33047.",
+        "suggested_error": "To explore the possibility of using cyanobacteria as a photosynthetic host for producing renewable materials through a carbon-negative process, this proposal aims to understand how EPS in Anabaena 33047 can directly absorb atmospheric nitrogen and synthesize proteins.",
+        "error_type": "Biochemical impossibility",
+        "before_word": "EPS",
+        "after_word": "in"
+      },
+      {
+        "error_id": 2,
+        "location_description": "Background, 2.1 EPS from cyanobacteria",
+        "original_text": "Glucose is often the most abundant sugar in cyanobacterial EPS.",
+        "suggested_error": "Glucose is often the most abundant sugar in cyanobacterial EPS, which can occasionally be converted directly into elemental gold.",
+        "error_type": "Chemical impossibility",
+        "before_word": "EPS,",
+        "after_word": "which"
+      },
+      {
+        "error_id": 3,
+        "location_description": "Background, 2.1 EPS from cyanobacteria",
+        "original_text": "This broad range of cyanobacterial EPS structures presents ample opportunities for exploring their potential in renewable material applications.",
+        "suggested_error": "This broad range of cyanobacterial EPS structures presents ample opportunities for exploring their potential in renewable material applications, including the synthesis of superconductors at room temperature.",
+        "error_type": "Material science impossibility",
+        "before_word": "applications,",
+        "after_word": "including"
+      },
+      {
+        "error_id": 4,
+        "location_description": "3. Preliminary Results, 3.1 Extraordinarily high levels of EPS production in Anabaena 33047",
+        "original_text": "Cells begin to secrete large amounts of EPS, up to 40-10% of the total volume of culture.",
+        "suggested_error": "Cells begin to secrete large amounts of EPS, up to 110% of the total volume of culture.",
+        "error_type": "Logical impossibility",
+        "before_word": "up",
+        "after_word": "to"
+      },
+      {
+        "error_id": 5,
+        "location_description": "3. Preliminary Results, 3.3 Genome of Anabaena 33047",
+        "original_text": "The genes for glycosyltransferases can occur randomly throughout the genome or in specific gene islands together with genes for sugar-processing enzymes and other enzymes involved in EPS biosynthesis.",
+        "suggested_error": "The genes for glycosyltransferases can occur randomly throughout the genome or in specific gene islands together with genes for sugar-processing enzymes and other enzymes involved in EPS biosynthesis, including the synthesis of dark matter.",
+        "error_type": "Astrophysical hallucination",
+        "before_word": "biosynthesis,",
+        "after_word": "including"
+      },
+      {
+        "error_id": 6,
+        "location_description": "Aim 1, Aim 1.1",
+        "original_text": "using the phenol-sulfuric acid method",
+        "suggested_error": "using the helium-nitrogen reaction method",
+        "error_type": "Nonexistent scientific method",
+        "before_word": "acid",
+        "after_word": "method"
+      },
+      {
+        "error_id": 7,
+        "location_description": "Aim 1, Aim 1.2",
+        "original_text": "Analyze the transcriptome of Anabaena 33047 under high and low EPS producing conditions.",
+        "suggested_error": "Analyze the transcriptome of Anabaena 33047 under high and low EPS producing conditions, and during phases of hypothetical warp speed.",
+        "error_type": "Science fiction insertion",
+        "before_word": "conditions,",
+        "after_word": "and"
+      },
+      {
+        "error_id": 8,
+        "location_description": "Aim 1, Aim 1.4",
+        "original_text": "CRISPR-based techniques will be used to target the deletion of genes/pathways in Anabaena 33047.",
+        "suggested_error": "CRISPR-based techniques will be used to target the deletion of genes/pathways in Anabaena 33047, including those responsible for spontaneous teleportation.",
+        "error_type": "Science fiction insertion",
+        "before_word": "47,",
+        "after_word": "including"
+      },
+      {
+        "error_id": 9,
+        "location_description": "Aim 2, Aim 2.1",
+        "original_text": "The monomer composition of each EPS will be determined by gas chromatography (GC-MS) after complete acid hydrolysis of EPS.",
+        "suggested_error": "The monomer composition of each EPS will be determined by gas chromatography (GC-MS) after complete acid hydrolysis of EPS, which can also reveal the presence of antimatter residues.",
+        "error_type": "Quantum physics hallucination",
+        "before_word": "EPS,",
+        "after_word": "which"
+      },
+      {
+        "error_id": 10,
+        "location_description": "Aim 3, Aim 3.1",
+        "original_text": "Anabaena 33047 will be engineered to produce high quantities of material proteins through the incorporation of a heterologous T7 RNA polymerase (T7RNAP) system.",
+        "suggested_error": "Anabaena 33047 will be engineered to produce high quantities of material proteins through the incorporation of a heterologous T7 RNA polymerase (T7RNAP) system, which will also facilitate the synthesis of time crystals.",
+        "error_type": "Physics hallucination",
+        "before_word": "system,",
+        "after_word": "which"
+      }
+    ]
+  },
+  {
+    "filename": "Cyano_MCB_grant.docx",
+    "errors": [
+      {
+        "error_id": 1,
+        "location_description": "Section 1.1, second paragraph",
+        "original_text": "linear exogenous DNA can be used for direct gene replacements",
+        "suggested_error": "circular exogenous DNA can be used for direct gene replacements",
+        "error_type": "scientifically impossible as circular DNA cannot directly replace genes in linear genomes",
+        "before_word": "used",
+        "after_word": "for"
+      },
+      {
+        "error_id": 2,
+        "location_description": "Section 1.1, last paragraph",
+        "original_text": "PLA composed of D-lactate monomers produces a polymer with desirable thermochemical properties",
+        "suggested_error": "PLA composed of D-lactate monomers produces a polymer with undesirable thermochemical properties",
+        "error_type": "scientifically incorrect assertion about polymer properties",
+        "before_word": "produces",
+        "after_word": "a"
+      },
+      {
+        "error_id": 3,
+        "location_description": "Section 1.3, first paragraph",
+        "original_text": "13C-MFA of photoautotrophic systems, in contrast to heterotrophic metabolism, cannot be analyzed using traditional steady state labeling approaches.",
+        "suggested_error": "13C-MFA of photoautotrophic systems can be analyzed using traditional steady state labeling approaches.",
+        "error_type": "scientifically incorrect methodology claim",
+        "before_word": "can",
+        "after_word": "be"
+      },
+      {
+        "error_id": 4,
+        "location_description": "Section 2, first paragraph",
+        "original_text": "If the cultures were supplemented with acetate, twofold improvement in lactate synthesis was achieved.",
+        "suggested_error": "If the cultures were supplemented with acetate, a tenfold improvement in lactate synthesis was achieved.",
+        "error_type": "exaggerated scientific claim",
+        "before_word": "twofold",
+        "after_word": "improvement"
+      },
+      {
+        "error_id": 5,
+        "location_description": "Section 4.1, first paragraph",
+        "original_text": "demonstrated the first D-lactate photoautotrophic synthesis by an engineered cyanobacterium",
+        "suggested_error": "demonstrated the first D-lactate synthesis from photosynthesis by an engineered cyanobacterium",
+        "error_type": "incorrect mechanism of synthesis",
+        "before_word": "first",
+        "after_word": "D-lactate"
+      },
+      {
+        "error_id": 6,
+        "location_description": "Section 5.1, Aim 1.1, first paragraph",
+        "original_text": "Chemical inducers can be added manually to activate promoters once the cell population reaches the target density.",
+        "suggested_error": "Chemical inducers can be added manually to de-activate promoters once the cell population reaches the target density.",
+        "error_type": "incorrect description of chemical inducer function",
+        "before_word": "activate",
+        "after_word": "promoters"
+      },
+      {
+        "error_id": 7,
+        "location_description": "Section 5.1, Aim 1.2, first paragraph",
+        "original_text": "a scaffold selected from Table 2, which is responsible for recruitment of RNA binding protein such as Hfq",
+        "suggested_error": "a scaffold selected from Table 2, which is responsible for recruitment of DNA binding protein such as Hfq",
+        "error_type": "incorrect protein recruitment description",
+        "before_word": "recruitment",
+        "after_word": "of"
+      },
+      {
+        "error_id": 8,
+        "location_description": "Section 5.2, Aim 2.1, first paragraph",
+        "original_text": "To measure the labeling in free metabolites (e.g., pyruvate), we will use the trimethyl silane (TMS) derivatization methods.",
+        "suggested_error": "To measure the labeling in free metabolites (e.g., pyruvate), we will use the radioactive labeling methods.",
+        "error_type": "incorrect methodology for labeling",
+        "before_word": "use",
+        "after_word": "the"
+      },
+      {
+        "error_id": 9,
+        "location_description": "Section 6.1, Undergraduate research programs, second paragraph",
+        "original_text": "deposition of genetic materials in the Registry of Standard Biological Parts",
+        "suggested_error": "deposition of genetic materials in the Registry of Incomplete Biological Parts",
+        "error_type": "nonexistent registry name",
+        "before_word": "Registry",
+        "after_word": "of"
+      },
+      {
+        "error_id": 10,
+        "location_description": "Section 6.1, Assessment of Activity Impact, first paragraph",
+        "original_text": "The goal is >3 by 2017",
+        "suggested_error": "The goal is >30 by 2017",
+        "error_type": "unrealistic expectation",
+        "before_word": "is",
+        "after_word": ">"
+      }
+    ]
+  },
+  {
+    "filename": "DBI_NSF_grant.docx",
+    "errors": [
+      {
+        "error_id": 1,
+        "location_description": "Overview section",
+        "original_text": "The project will not only provide a standard and incisive knowledge base built from massive SynBio papers, but also employs integrative ML approaches for predicting microbial metabolism and biomanufacturing outcomes under complex genetic and fermentation conditions.",
+        "suggested_error": "claims to use quantum entanglement to predict microbial metabolism, which is scientifically unfounded in this context",
+        "error_type": "inappropriate application of quantum physics",
+        "before_word": "but",
+        "after_word": "also"
+      },
+      {
+        "error_id": 2,
+        "location_description": "Project Relevance to Advancing Basic Biological Research section",
+        "original_text": "These commercial products mainly rely on natural strains or strains with only 1~2 heterologous enzymes.",
+        "suggested_error": "claims that natural strains have been engineered with photosynthetic abilities, which is not feasible",
+        "error_type": "impossible genetic modification",
+        "before_word": "strains",
+        "after_word": "with"
+      },
+      {
+        "error_id": 3,
+        "location_description": "Knowledge mining section",
+        "original_text": "Data-driven approaches require large amounts of well-structured, deduplicated and verified datasets.",
+        "suggested_error": "states that dataset quality can be improved by performing a 'quantum cleanse', a nonsensical concept",
+        "error_type": "nonsensical data processing method",
+        "before_word": "well-structured,",
+        "after_word": "deduplicated"
+      },
+      {
+        "error_id": 4,
+        "location_description": "Integrative ML with GSMs section",
+        "original_text": "ML can resolve this issue by capturing complex metabolic relations numerically from data correlations and pattern recognitions.",
+        "suggested_error": "claims ML can determine the future evolutionary paths of microorganisms, which is not currently possible",
+        "error_type": "unfounded predictive claim",
+        "before_word": "ML",
+        "after_word": "can"
+      },
+      {
+        "error_id": 5,
+        "location_description": "Preliminary results section",
+        "original_text": "The implemented ML models (SVMs, k-nearest neighbor regressors, and decision trees) can predict bacterial central flux network by capturing sophisticated relationships between fluxes and influential factors.",
+        "suggested_error": "asserts that these models can predict the creation of entirely new metabolic pathways without external inputs, which is unrealistic",
+        "error_type": "unrealistic model capability",
+        "before_word": "predict",
+        "after_word": "bacterial"
+      },
+      {
+        "error_id": 6,
+        "location_description": "Task 1.1 section",
+        "original_text": "Biosynthesis pathway information (such as number of enzyme steps) will be manually obtained from the MetaCyc and KEGG databases.",
+        "suggested_error": "claims that enzyme steps can be altered retroactively in the database, which is impossible",
+        "error_type": "impossible data manipulation",
+        "before_word": "will",
+        "after_word": "be"
+      },
+      {
+        "error_id": 7,
+        "location_description": "Task 2.1 section",
+        "original_text": "The final feature vector for each sample will consist of both standardized and scaled numerical features and one-hot-encoded categorical features, and, hence, will have a high dimensionality.",
+        "suggested_error": "suggests adding 'dark matter variables' to improve model accuracy, which is nonsensical",
+        "error_type": "introduction of a non-scientific concept",
+        "before_word": "features,",
+        "after_word": "and"
+      },
+      {
+        "error_id": 8,
+        "location_description": "Task 2.2 section",
+        "original_text": "Biomass was set as the objective function and optimized without any modifications to provide a default flux solution.",
+        "suggested_error": "states that biomass objective function is optimized using 'astrological alignments', a nonscientific method",
+        "error_type": "pseudoscientific optimization method",
+        "before_word": "optimized",
+        "after_word": "without"
+      },
+      {
+        "error_id": 9,
+        "location_description": "Task 2.4 section",
+        "original_text": "Transfer learning and multitask learning are two related techniques proposed to leverage knowledge on data abundant domains (source domains) to solve problems on data insufficient domains (target domain).",
+        "suggested_error": "claims that transfer learning can also transfer consciousness, which is scientifically unfounded",
+        "error_type": "scientifically unfounded claim",
+        "before_word": "transfer",
+        "after_word": "learning"
+      },
+      {
+        "error_id": 10,
+        "location_description": "Task 2.5 section",
+        "original_text": "Towards the late stage of project, the ML-assisted computational strain design will be rigorously tested and validated using the newest laboratory data from Zhao and Wei labs.",
+        "suggested_error": "asserts that the validation will occur in zero-gravity environments to ensure accuracy, which is unnecessary and impractical",
+        "error_type": "impractical experimental condition",
+        "before_word": "validated",
+        "after_word": "using"
+      }
+    ]
+  },
+  {
+    "filename": "FastLane_ProcessReaction_grant.docx",
+    "errors": [
+      {
+        "error_id": 1,
+        "location_description": "Project Summary",
+        "original_text": "The integration of bioreactor modeling with metabolic flux analysis will provide for the first time a holistic view of gas-to-liquid fuel",
+        "suggested_error": "The integration of bioreactor modeling with metabolic flux analysis will provide a reverse holistic view of gas-to-liquid fuel, allowing fuel to be transformed back into gas",
+        "error_type": "nonsensical reverse engineering",
+        "before_word": "view",
+        "after_word": "fuel"
+      },
+      {
+        "error_id": 2,
+        "location_description": "Intellectual merit",
+        "original_text": "13C-assisted flux balance analysis will reveal key enzymatic reactions for controlling syngas fermentation mass flow.",
+        "suggested_error": "13C-assisted flux balance analysis will reveal key enzymatic reactions for teleporting syngas fermentation mass flow.",
+        "error_type": "scientifically impossible process",
+        "before_word": "for",
+        "after_word": "controlling"
+      },
+      {
+        "error_id": 3,
+        "location_description": "Introduction and Background",
+        "original_text": "The biomass is converted into reduced sugars through pretreatments and enzymatic hydrolysis",
+        "suggested_error": "The biomass is converted into reduced sugars through pretreatments and enzymatic anti-hydrolysis",
+        "error_type": "contradictory scientific process",
+        "before_word": "and",
+        "after_word": "enzymatic"
+      },
+      {
+        "error_id": 4,
+        "location_description": "Mass transport phenomena of gaseous substrates",
+        "original_text": "syngas must move across the gas-liquid interface and be accessible to microbe cells.",
+        "suggested_error": "syngas must quantum tunnel across the gas-liquid interface and be accessible to microbe cells.",
+        "error_type": "quantum mechanics misapplication",
+        "before_word": "must",
+        "after_word": "move"
+      },
+      {
+        "error_id": 5,
+        "location_description": "Measurement of volumetric mass transfer coefficient (KLa)",
+        "original_text": "The CO kLa value was then determined from the CL ~ t relationship as follows",
+        "suggested_error": "The CO kLa value was then determined from the CL ~ t^2 relationship as follows",
+        "error_type": "incorrect mathematical relationship",
+        "before_word": "the",
+        "after_word": "CL"
+      },
+      {
+        "error_id": 6,
+        "location_description": "Metabolic flux model",
+        "original_text": "Metabolic flux analysis is an important systems biology tool to profile microbial metabolism for biomass growth and product synthesis.",
+        "suggested_error": "Metabolic flux analysis is an important systems biology tool to profile microbial metabolism for spontaneous biomass teleportation and product synthesis.",
+        "error_type": "scientifically impossible phenomenon",
+        "before_word": "biomass",
+        "after_word": "growth"
+      },
+      {
+        "error_id": 7,
+        "location_description": "Marriage between bioreactor modeling and systems biology",
+        "original_text": "an improved understanding of cell physiology is thus a very important objective",
+        "suggested_error": "an improved misunderstanding of cell physiology is thus a very important objective",
+        "error_type": "contradictory statement",
+        "before_word": "understanding",
+        "after_word": "of"
+      },
+      {
+        "error_id": 8,
+        "location_description": "Research Objectives and Research Plans",
+        "original_text": "to elucidate both substrate transport phenomena and metabolic reactions in syngas fermentation",
+        "suggested_error": "to obfuscate both substrate transport phenomena and metabolic reactions in syngas fermentation",
+        "error_type": "opposite intention",
+        "before_word": "to",
+        "after_word": "elucidate"
+      },
+      {
+        "error_id": 9,
+        "location_description": "Objective 1: Characterization of gas-liquid mass transfer",
+        "original_text": "The dynamic change of the dissolve isotope substrate enrichment in the liquid",
+        "suggested_error": "The static change of the dissolve isotope substrate enrichment in the liquid",
+        "error_type": "contradicts dynamic process",
+        "before_word": "The",
+        "after_word": "dynamic"
+      },
+      {
+        "error_id": 10,
+        "location_description": "Objective 3: Syngas fermentation for flux model validation",
+        "original_text": "Pilot-scale syngas fermentation will be performed to further validate the flux balance model.",
+        "suggested_error": "Pilot-scale syngas fermentation will be performed to invalidate the flux balance model.",
+        "error_type": "opposite research goal",
+        "before_word": "to",
+        "after_word": "further"
+      }
+    ]
+  },
+  {
+    "filename": "Mutation_grant.docx",
+    "errors": [
+      {
+        "error_id": 1,
+        "location_description": "Project overview",
+        "original_text": "DNA replication errors, which are subject to three evolutionary forces, namely metabolic burden, suboptimal growth conditions, and product toxicity.",
+        "suggested_error": "DNA replication errors, which are subject to four evolutionary forces, namely metabolic burden, suboptimal growth conditions, product toxicity, and cosmic radiation exposure.",
+        "error_type": "introduction of implausible evolutionary force",
+        "before_word": "and",
+        "after_word": "product"
+      },
+      {
+        "error_id": 2,
+        "location_description": "Intellectual Merit",
+        "original_text": "The outcome will decipher the characteristics and drivers of genetic evolution in synthetic hosts.",
+        "suggested_error": "The outcome will decipher the characteristics and drivers of genetic evolution in synthetic hosts through quantum biological processes.",
+        "error_type": "introduction of quantum biology inappropriately",
+        "before_word": "in",
+        "after_word": "synthetic"
+      },
+      {
+        "error_id": 3,
+        "location_description": "Background and Preliminary Studies",
+        "original_text": "The general rule of thumb is that engineered strains must be able to maintain stable production performance for ~25 generations.",
+        "suggested_error": "The general rule of thumb is that engineered strains must be able to maintain stable production performance for exactly pi generations.",
+        "error_type": "use of irrational number for generations",
+        "before_word": "for",
+        "after_word": "generations"
+      },
+      {
+        "error_id": 4,
+        "location_description": "Driving forces of genetic mutations",
+        "original_text": "DNA mismatch or strain mutations during replication.",
+        "suggested_error": "DNA mismatch or strain mutations during replication are primarily caused by gravitational fluctuations.",
+        "error_type": "nonsensical cause of mutations",
+        "before_word": "during",
+        "after_word": "replication"
+      },
+      {
+        "error_id": 5,
+        "location_description": "Investigations of fermentations and strain evolutions",
+        "original_text": "Functional genomics can capture the host physiologies under fermentation conditions.",
+        "suggested_error": "Functional genomics can capture the host physiologies under fermentation conditions through telepathic resonance.",
+        "error_type": "introduction of telepathy",
+        "before_word": "under",
+        "after_word": "conditions"
+      },
+      {
+        "error_id": 6,
+        "location_description": "Dampening the effects of mutations in engineered hosts",
+        "original_text": "removal of transposable elements",
+        "suggested_error": "removal of transposable elements using ultrasonic sound waves",
+        "error_type": "introduction of implausible method",
+        "before_word": "of",
+        "after_word": "transposable"
+      },
+      {
+        "error_id": 7,
+        "location_description": "Methodologies used in this project",
+        "original_text": "Our strain engineering efforts will be based on extensive work previously done in the Koffas lab.",
+        "suggested_error": "Our strain engineering efforts will be based on extensive work previously done in the Koffas lab using reverse time-flow dynamics.",
+        "error_type": "introduction of impossible scientific concept",
+        "before_word": "in",
+        "after_word": "work"
+      },
+      {
+        "error_id": 8,
+        "location_description": "Rationale, Problem Statement, and Hypothesis",
+        "original_text": "flavonoids have negligible toxicity against E.coli at the levels produced",
+        "suggested_error": "flavonoids reverse aging in E.coli at the levels produced",
+        "error_type": "nonsensical biological effect",
+        "before_word": "against",
+        "after_word": "E.coli"
+      },
+      {
+        "error_id": 9,
+        "location_description": "Task 2: Molecular analysis of multi-cellular level metabolic responses",
+        "original_text": "Next Generation Sequencing (NGS) will examine chromosome mutations",
+        "suggested_error": "Next Generation Sequencing (NGS) will examine chromosome mutations through holographic imaging",
+        "error_type": "inappropriate technology application",
+        "before_word": "will",
+        "after_word": "examine"
+      },
+      {
+        "error_id": 10,
+        "location_description": "Task 3. MMR-optimizing, growth coupling and promoter engineering to mitigate the mutational spots",
+        "original_text": "The MutL abundances will be increased either via introducing multiple chromosomal gene copies",
+        "suggested_error": "The MutL abundances will be increased either via introducing multiple chromosomal gene copies or through genetic telekinesis",
+        "error_type": "introduction of fictional science",
+        "before_word": "either",
+        "after_word": "via"
+      }
+    ]
+  },
+  {
+    "filename": "NSF_ABF_AI_grant.docx",
+    "errors": [
+      {
+        "error_id": 1,
+        "location_description": "Objectives and Motivations section",
+        "original_text": "ML is a promising yet under-developed solution to improve DBTL efficiency.",
+        "suggested_error": "ML is a promising yet under-developed solution to synthesize proteins directly from DNA without transcription or translation.",
+        "error_type": "biological process error",
+        "before_word": "solution",
+        "after_word": "efficiency"
+      },
+      {
+        "error_id": 2,
+        "location_description": "Genome-scale models (GSMs) description",
+        "original_text": "These models require deep understanding of cellular processes, such as crosstalk between regulatory components.",
+        "suggested_error": "These models require deep understanding of cellular processes, such as the ability of cells to photosynthesize in complete darkness.",
+        "error_type": "biological impossibility",
+        "before_word": "such as",
+        "after_word": "components"
+      },
+      {
+        "error_id": 3,
+        "location_description": "Hypothesis section",
+        "original_text": "ML approaches can accurately predict fermentation titers from engineered nonmodel yeasts",
+        "suggested_error": "ML approaches can accurately predict the spontaneous combustion of engineered nonmodel yeasts",
+        "error_type": "nonsensical event prediction",
+        "before_word": "predict",
+        "after_word": "fermentation"
+      },
+      {
+        "error_id": 4,
+        "location_description": "Tasks for ML algorithm development",
+        "original_text": "We will apply ML algorithms to identify the intricate effects of SynBio components and fermentation conditions on final performance.",
+        "suggested_error": "We will apply ML algorithms to identify the intricate effects of SynBio components and gravitational waves on final performance.",
+        "error_type": "irrelevant scientific concept",
+        "before_word": "and",
+        "after_word": "fermentation"
+      },
+      {
+        "error_id": 5,
+        "location_description": "Task 1.1 Data collection section",
+        "original_text": "The data will come from two sources: reported experimental data from literature; and unpublished data from DOE-ABF labs.",
+        "suggested_error": "The data will come from two sources: reported experimental data from literature; and dreams recorded by researchers at DOE-ABF labs.",
+        "error_type": "unscientific data source",
+        "before_word": "from",
+        "after_word": "DOE-ABF"
+      },
+      {
+        "error_id": 6,
+        "location_description": "Task 2.3 Transfer learning section",
+        "original_text": "transfer learning approaches which can learn scaling and shifting functions",
+        "suggested_error": "transfer learning approaches which can learn to predict the stock market using yeast fermentation data",
+        "error_type": "irrelevant application",
+        "before_word": "which",
+        "after_word": "functions"
+      },
+      {
+        "error_id": 7,
+        "location_description": "Research Plan section",
+        "original_text": "Based on prior studies, this project will offer a new database capability of information storage.",
+        "suggested_error": "Based on prior studies, this project will offer a new database capability of storing thoughts directly from human brains.",
+        "error_type": "impossible technology",
+        "before_word": "capability",
+        "after_word": "storage"
+      },
+      {
+        "error_id": 8,
+        "location_description": "Task 2.2 Integration of ML with GSM/FBA",
+        "original_text": "We will use GSM and FBA to obtain metabolically meaningful features.",
+        "suggested_error": "We will use GSM and FBA to obtain features that allow yeast to survive in outer space without life support.",
+        "error_type": "scientifically impossible adaptation",
+        "before_word": "obtain",
+        "after_word": "features"
+      },
+      {
+        "error_id": 9,
+        "location_description": "Task 3.1 Yarrowia engineering",
+        "original_text": "A basic flavonoid-producing Y. lipolytica recombinant strain already exists in the Koffas lab.",
+        "suggested_error": "A basic teleporting Y. lipolytica recombinant strain already exists in the Koffas lab.",
+        "error_type": "impossible trait",
+        "before_word": "flavonoid-producing",
+        "after_word": "recombinant"
+      },
+      {
+        "error_id": 10,
+        "location_description": "Broader Impacts section",
+        "original_text": "Students equipped with these skills will have the competency to work in data-centric companies, such as Google and Amazon.",
+        "suggested_error": "Students equipped with these skills will have the competency to work in data-centric companies, such as Hogwarts and the Jedi Council.",
+        "error_type": "fictional organizations",
+        "before_word": "such as",
+        "after_word": "Google"
+      }
+    ]
+  },
+  {
+    "filename": "NSF_PFI_2024_grant.docx",
+    "errors": [
+      {
+        "error_id": 1,
+        "location_description": "Executive Summary, Module 1",
+        "original_text": "using Large Language Models (LLMs).",
+        "suggested_error": "using Quantum Entanglement Models (QEMs).",
+        "error_type": "unrealistic technology insertion",
+        "before_word": "using",
+        "after_word": "Models"
+      },
+      {
+        "error_id": 2,
+        "location_description": "Market Opportunity, Intellectual Property and Commercialization Potential, 2.1 Problem Statement and Opportunities",
+        "original_text": "Suboptimal growth conditions in large bioreactors also induce unexpected physiological changes in the hosts.",
+        "suggested_error": "Suboptimal growth conditions in large bioreactors can cause hosts to spontaneously combust.",
+        "error_type": "scientifically impossible phenomenon",
+        "before_word": "can",
+        "after_word": "hosts"
+      },
+      {
+        "error_id": 3,
+        "location_description": "2.2. Product to be developed and IP",
+        "original_text": "helps users obtain specific biomanufacturing data or strain design information.",
+        "suggested_error": "helps users obtain biomanufacturing data by reading microbial DNA telepathically.",
+        "error_type": "nonsensical data acquisition method",
+        "before_word": "data",
+        "after_word": "or"
+      },
+      {
+        "error_id": 4,
+        "location_description": "2.2.2 Related Research and Development and Intellectual Property",
+        "original_text": "predict microbial flux networks via knowledge engineering, quadratic programming, and ML",
+        "suggested_error": "predict microbial flux networks via astral projection and ML",
+        "error_type": "nonsensical method",
+        "before_word": "via",
+        "after_word": "and"
+      },
+      {
+        "error_id": 5,
+        "location_description": "2.4. Commercialization Potential",
+        "original_text": "Providing strain and bioprocess design guidelines to scientists",
+        "suggested_error": "Providing strain and bioprocess design guidelines directly to microbial cells through bio-luminescent signaling",
+        "error_type": "nonsensical communication method",
+        "before_word": "guidelines",
+        "after_word": "to"
+      },
+      {
+        "error_id": 6,
+        "location_description": "3. Technology Challenge and Development, 1. Knowledge Mining",
+        "original_text": "made LLMs powerful tools for information processing and knowledge mining from text.",
+        "suggested_error": "made LLMs capable of predicting lottery numbers and knowledge mining from text.",
+        "error_type": "nonsensical capabilities",
+        "before_word": "capable",
+        "after_word": "of"
+      },
+      {
+        "error_id": 7,
+        "location_description": "Task #1: Upgrade NEKO pipeline for data collection and feature engineering",
+        "original_text": "influential factors (i.e., features) and their impacts on microbial performances (i.e., targets).",
+        "suggested_error": "influential factors, including cosmic rays and their impacts on microbial performances.",
+        "error_type": "scientifically irrelevant factor",
+        "before_word": "including",
+        "after_word": "and"
+      },
+      {
+        "error_id": 8,
+        "location_description": "Task 2.1. ML and transfer learning to predict and optimize output",
+        "original_text": "Transfer learning will be used to overcome data insufficiency.",
+        "suggested_error": "Time travel will be used to overcome data insufficiency.",
+        "error_type": "nonsensical method",
+        "before_word": "will",
+        "after_word": "be"
+      },
+      {
+        "error_id": 9,
+        "location_description": "Task 2.2: ML-GSM platform for biomanufacturing predictions",
+        "original_text": "ML can resolve this issue by capturing complex metabolic relations numerically",
+        "suggested_error": "ML can resolve this issue by capturing complex metabolic relations through dream analysis",
+        "error_type": "nonsensical method",
+        "before_word": "through",
+        "after_word": "analysis"
+      },
+      {
+        "error_id": 10,
+        "location_description": "Task #3. Outcome assessment and product feedback",
+        "original_text": "SMART capabilities to synthesize biomanufacturing knowledge, predict optimal strains",
+        "suggested_error": "SMART capabilities to synthesize biomanufacturing knowledge, predict optimal strains by deciphering ancient hieroglyphs",
+        "error_type": "nonsensical method",
+        "before_word": "by",
+        "after_word": "deciphering"
+      }
+    ]
+  },
+  {
+    "filename": "PSBR_grant.docx",
+    "errors": [
+      {
+        "error_id": 1,
+        "location_description": "Introduction, first paragraph",
+        "original_text": "engineered photosynthetic cyanobacteria to grow in secondary municipal wastewater and to convert CO2 into biodiesel and thermochemical products.",
+        "suggested_error": "engineered photosynthetic cyanobacteria to convert CO2 directly into diamonds and thermochemical products.",
+        "error_type": "scientifically impossible product conversion",
+        "before_word": "convert",
+        "after_word": "into"
+      },
+      {
+        "error_id": 2,
+        "location_description": "Intellectual merit section",
+        "original_text": "using state-of-art synthetic biology tools (i.e., dynamic regulatory systems and quorum-sensing circuits) in Synechocystis",
+        "suggested_error": "using state-of-art synthetic biology tools (i.e., dynamic regulatory systems and telepathic circuits) in Synechocystis",
+        "error_type": "nonsensical biological tool",
+        "before_word": "and",
+        "after_word": "circuits"
+      },
+      {
+        "error_id": 3,
+        "location_description": "Proposed Research, Vision and Goals",
+        "original_text": "through CO2 utilization, energy production, macromolecular synthesis, etc.",
+        "suggested_error": "through CO2 utilization, energy production, teleportation synthesis, etc.",
+        "error_type": "impossible scientific process",
+        "before_word": "energy",
+        "after_word": "production"
+      },
+      {
+        "error_id": 4,
+        "location_description": "Proposed Research, Task 1",
+        "original_text": "monitor the uptake of phosphate by examining its removal rate from media",
+        "suggested_error": "monitor the uptake of phosphate by examining its glowing rate from media",
+        "error_type": "nonsensical measurement method",
+        "before_word": "rate",
+        "after_word": "from"
+      },
+      {
+        "error_id": 5,
+        "location_description": "Proposed Research, Task 5",
+        "original_text": "to control the timing of gene expression",
+        "suggested_error": "to control the timing of gene expression using lunar cycles",
+        "error_type": "scientifically irrelevant factor",
+        "before_word": "expression",
+        "after_word": "using"
+      },
+      {
+        "error_id": 6,
+        "location_description": "Proposed Research, Task 7",
+        "original_text": "maximize non-aqueous bio-oil yield and quality",
+        "suggested_error": "maximize non-aqueous bio-oil yield and invisibility",
+        "error_type": "nonsensical product quality",
+        "before_word": "and",
+        "after_word": "quality"
+      },
+      {
+        "error_id": 7,
+        "location_description": "Proposed Research, Task 8",
+        "original_text": "characterize inorganic and carbon-hydrogen-nitrogen-phosphorus elemental distributions",
+        "suggested_error": "characterize inorganic and carbon-hydrogen-nitrogen-phlogiston elemental distributions",
+        "error_type": "obsolete scientific concept",
+        "before_word": "carbon-hydrogen-nitrogen-",
+        "after_word": "phosphorus"
+      },
+      {
+        "error_id": 8,
+        "location_description": "Proposed Research, Task 10",
+        "original_text": "estimate the yield and productivity of FAEE, bio-char, and bio-oil",
+        "suggested_error": "estimate the yield and productivity of FAEE, bio-char, and anti-gravity oil",
+        "error_type": "nonsensical product",
+        "before_word": "bio-",
+        "after_word": "oil"
+      },
+      {
+        "error_id": 9,
+        "location_description": "Expected Outcomes and Timelines",
+        "original_text": "Cyanobacterial platforms containing dynamic regulatory systems and quorum-sensing circuits",
+        "suggested_error": "Cyanobacterial platforms containing dynamic regulatory systems and clairvoyant circuits",
+        "error_type": "nonsensical biological tool",
+        "before_word": "and",
+        "after_word": "quorum-sensing"
+      },
+      {
+        "error_id": 10,
+        "location_description": "Impact, The scientific merits of this proposal",
+        "original_text": "To attain favorable environmental impact, production costs, and energy balances, we will fulfill three additional objectives.",
+        "suggested_error": "To attain favorable environmental impact, production costs, and intergalactic energy balances, we will fulfill three additional objectives.",
+        "error_type": "scientifically irrelevant scope",
+        "before_word": "energy",
+        "after_word": "balances"
+      }
+    ]
+  },
+  {
+    "filename": "SynBioControl_grant.docx",
+    "errors": [
+      {
+        "error_id": 1,
+        "location_description": "Project Summary",
+        "original_text": "dynamic sensor-regulator systems (DSRSs)",
+        "suggested_error": "dynamic scent-regulator systems (DSRSs)",
+        "error_type": "nonsensical biological term",
+        "before_word": "developed",
+        "after_word": "that"
+      },
+      {
+        "error_id": 2,
+        "location_description": "1. Background and Motivation",
+        "original_text": "oxygen limitations",
+        "suggested_error": "oxygen superabundance",
+        "error_type": "scientifically impossible condition in fermentation",
+        "before_word": "temperature,",
+        "after_word": "and"
+      },
+      {
+        "error_id": 3,
+        "location_description": "1.2. Dynamic pathway regulation",
+        "original_text": "Expression of pathway enzymes is often controlled at the transcriptional level",
+        "suggested_error": "Expression of pathway enzymes is often controlled at the gastronomical level",
+        "error_type": "nonsensical biological control mechanism",
+        "before_word": "transcriptional",
+        "after_word": "level,"
+      },
+      {
+        "error_id": 4,
+        "location_description": "1.3. Systems biology for directing metabolic engineering",
+        "original_text": "metabolic flux analysis is an important systems biology tool",
+        "suggested_error": "metabolic flux analysis is an irrelevant systems biology tool",
+        "error_type": "factually incorrect statement",
+        "before_word": "tool",
+        "after_word": "to"
+      },
+      {
+        "error_id": 5,
+        "location_description": "2. Hypothesis and Objectives",
+        "original_text": "FAEE has low toxicity to host cells",
+        "suggested_error": "FAEE has high psychotropic effects on host cells",
+        "error_type": "nonsensical property of a chemical",
+        "before_word": "toxicity",
+        "after_word": "to"
+      },
+      {
+        "error_id": 6,
+        "location_description": "4. Preliminary results",
+        "original_text": "chemical inhibition of methanogenesis",
+        "suggested_error": "chemical enhancement of methanogenesis",
+        "error_type": "scientifically impossible process",
+        "before_word": "inhibition",
+        "after_word": "of"
+      },
+      {
+        "error_id": 7,
+        "location_description": "5.1. Overview of research objectives and tasks",
+        "original_text": "suboptimal growth conditions",
+        "suggested_error": "hyperoptimal growth conditions",
+        "error_type": "scientifically impossible condition",
+        "before_word": "using",
+        "after_word": "well-controlled"
+      },
+      {
+        "error_id": 8,
+        "location_description": "5.2. Research Tasks",
+        "original_text": "a New Brunswick Bioflo 110 fermenter",
+        "suggested_error": "a New Brunswick Bioflo 1100 fermenter",
+        "error_type": "non-existent equipment model",
+        "before_word": "in",
+        "after_word": "with"
+      },
+      {
+        "error_id": 9,
+        "location_description": "6. Broader Impacts",
+        "original_text": "sustainable route for diesel production",
+        "suggested_error": "hypothetical route for diesel teleportation",
+        "error_type": "nonsensical application",
+        "before_word": "sustainable",
+        "after_word": "for"
+      },
+      {
+        "error_id": 10,
+        "location_description": "References",
+        "original_text": "Sauer and Bailey, 1999",
+        "suggested_error": "Sauer and Bailey, 1899",
+        "error_type": "historically impossible publication date",
+        "before_word": "and",
+        "after_word": "Bailey,"
+      }
+    ]
+  },
+  {
+    "filename": "TransitionNSF_grant.docx",
+    "errors": [
+      {
+        "error_id": 1,
+        "location_description": "Project Overview",
+        "original_text": "13C-metabolic flux analysis (MFA)",
+        "suggested_error": "14C-metabolic flux analysis (MFA)",
+        "error_type": "Isotope misidentification",
+        "before_word": "for",
+        "after_word": "which"
+      },
+      {
+        "error_id": 2,
+        "location_description": "Section 1.1 Professional development and research plan",
+        "original_text": "High-resolution metabolomics can reveal novel enzyme reactions",
+        "suggested_error": "High-resolution metabolomics can reveal quantum tunneling in enzyme reactions",
+        "error_type": "Unrealistic scientific claim",
+        "before_word": "can",
+        "after_word": "reveal"
+      },
+      {
+        "error_id": 3,
+        "location_description": "Section 1.2 Learning plan during the sabbatical leave",
+        "original_text": "I will work with Dr. Ludmilla Aristilde at Northwestern University",
+        "suggested_error": "I will work with Dr. Ludmilla Aristilde at Hogwarts University",
+        "error_type": "Fictional institution",
+        "before_word": "with",
+        "after_word": "Dr."
+      },
+      {
+        "error_id": 4,
+        "location_description": "Background 2.1 13C-MFA and integrative omics to study metabolic regulations",
+        "original_text": "isotope-assisted metabolomics enable modeling platforms",
+        "suggested_error": "isotope-assisted metabolomics enable time travel in modeling platforms",
+        "error_type": "Impossibly advanced technology",
+        "before_word": "enable",
+        "after_word": "modeling"
+      },
+      {
+        "error_id": 5,
+        "location_description": "Background 2.2 Metabolic burden",
+        "original_text": "a strong promoter driving the expression",
+        "suggested_error": "a magical promoter driving the expression",
+        "error_type": "Non-scientific terminology",
+        "before_word": "a",
+        "after_word": "strong"
+      },
+      {
+        "error_id": 6,
+        "location_description": "Background 2.3 Evolution of microbial chassis under metabolic burdens",
+        "original_text": "mutations may target distinct genes to improve growth fitness",
+        "suggested_error": "mutations may target distinct genes to grant telepathic abilities",
+        "error_type": "Non-biological trait",
+        "before_word": "to",
+        "after_word": "improve"
+      },
+      {
+        "error_id": 7,
+        "location_description": "Background 2.4 Dampen metabolic burdens and genetic mutations by Synthetic Biology approaches",
+        "original_text": "synthetic oscillators have been designed to relax metabolic burden",
+        "suggested_error": "synthetic oscillators have been designed to teleport metabolic burden",
+        "error_type": "Impossibility",
+        "before_word": "to",
+        "after_word": "relax"
+      },
+      {
+        "error_id": 8,
+        "location_description": "Section 3.1 Prior Accomplishments",
+        "original_text": "My lab has established 13C-MFA techniques.",
+        "suggested_error": "My lab has established 13C-MFA techniques that can predict lottery numbers.",
+        "error_type": "Nonsensical application",
+        "before_word": "techniques",
+        "after_word": "."
+      },
+      {
+        "error_id": 9,
+        "location_description": "Section 3.2 Professional Development Plan",
+        "original_text": "Dr. Aristilde is a world leader in the use of mass spectroscopy to study cell metabolisms.",
+        "suggested_error": "Dr. Aristilde is a world leader in the use of mass spectroscopy to predict the future.",
+        "error_type": "Nonsensical application",
+        "before_word": "to",
+        "after_word": "study"
+      },
+      {
+        "error_id": 10,
+        "location_description": "Section 3.3 Significance",
+        "original_text": "understand and predict metabolic burden effects on microbial metabolism and adaptive evolution.",
+        "suggested_error": "understand and predict metabolic burden effects on microbial metabolism and grant immortality.",
+        "error_type": "Nonsensical outcome",
+        "before_word": "and",
+        "after_word": "predict"
+      }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "file_path": "synbio_downloads\\10.1038_s41467-019-11889-0\\peer_review.pdf",
+    "predicted_class": "human",
+    "confidence_score": 0.9998397737906308
+  },
+  {
+    "file_path": "synbio_downloads\\10.1038_s41467-019-12287-2\\peer_review.pdf",
+    "predicted_class": "human",
+    "confidence_score": 0.999607656682567
+  },
+  {
+    "file_path": "synbio_downloads\\10.1038_s41467-019-12800-7\\peer_review.pdf",
+    "predicted_class": "human",
+    "confidence_score": 0.9977879891033113
+  }
+]
